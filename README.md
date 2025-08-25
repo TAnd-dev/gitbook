@@ -8,8 +8,8 @@ Gitbook
 
 Your browser does not support the audio element.
 
-{% openapi-operation spec="curl" path="/v1/images/generations" method="post" %}
-[OpenAPI curl](https://gitbook-x-prod-openapi.4401d86825a13bf607936cc3a9f3897a.r2.cloudflarestorage.com/raw/9c091443250853ba13a4d29714924570aa0cbf9b83d368ad320a60e9ac5f0679.yaml?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dce48141f43c0191a2ad043a6888781c%2F20250825%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250825T122953Z&X-Amz-Expires=172800&X-Amz-Signature=c737b1376c1cf5cd9dd8ab4569c1535ccd26da0687e0afd6dc610480d8ecbebd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+{% openapi-operation spec="332211" path="/v1/images/generations" method="post" %}
+[OpenAPI 332211](https://gitbook-x-prod-openapi.4401d86825a13bf607936cc3a9f3897a.r2.cloudflarestorage.com/raw/58230b9917fccc6d043785f24a290442a68ca3dc0eda1891e98bed5994d1f366.yaml?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dce48141f43c0191a2ad043a6888781c%2F20250825%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250825T123249Z&X-Amz-Expires=172800&X-Amz-Signature=ab18ba4259d62ff245296c84c145281919527f9f3b1e1383cda1dcf14dd4b1a1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 {% endopenapi-operation %}
 
 !\[Alt Text]\(https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
