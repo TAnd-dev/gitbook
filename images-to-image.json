@@ -74,13 +74,15 @@
                             "type": "object",
                             "properties": {
                               "url": {
-                                "type": "string"
+                                "type": "string",
+                                "example": "123.com",
                               },
                               "width": {
                                 "type": [
                                   "number",
                                   "null"
-                                ]
+                                ],
+                                "default": 150
                               },
                               "height": {
                                 "type": [
