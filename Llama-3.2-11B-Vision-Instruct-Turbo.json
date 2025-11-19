@@ -950,7 +950,7 @@
                     "model": {
                       "type": "string",
                       "description": "The model used for the chat completion.",
-                      "example": "gpt-4o-2024-08-06"
+                      "example": "meta-llama/llama-3.3-70b-versatile"
                     },
                     "usage": {
                       "type": "object",
@@ -2349,7 +2349,7 @@
                     "model": {
                       "type": "string",
                       "description": "The model used for the chat completion.",
-                      "example": "gpt-4o-2024-08-06"
+                      "example": "meta-llama/llama-3.3-70b-versatile"
                     },
                     "usage": {
                       "type": "object",
