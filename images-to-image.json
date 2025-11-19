@@ -75,7 +75,7 @@
                             "properties": {
                               "url": {
                                 "type": "string",
-                                "example": "123.com",
+                                "example": "123.com"
                               },
                               "width": {
                                 "type": [
