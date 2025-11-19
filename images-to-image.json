@@ -81,8 +81,7 @@
                                 "type": [
                                   "number",
                                   "null"
-                                ],
-                                "default": 150
+                                ]
                               },
                               "height": {
                                 "type": [
