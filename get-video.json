@@ -40,7 +40,7 @@
           },
           {
             "lang": "cURL",
-            "source": "curl -L \\\n  --request GET \\\n  --url 'https://api.aimlapi.com/v2/video/generations?generation_id=<REPLACE_WITH_YOUR_GENERATION_ID>' \\\n  --header 'Authorization: Bearer <YOUR_AIMLAPI_KEY>' \\"
+            "source": "curl -L \\\n  --request GET \\\n  --url 'https://api.aimlapi.com/v2/video/generations?generation_id=<REPLACE_WITH_YOUR_GENERATION_ID>' \\\n  --header 'Authorization: Bearer <YOUR_AIMLAPI_KEY>'"
           },
           {
             "lang": "HTTP",
