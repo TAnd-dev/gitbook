@@ -27,7 +27,8 @@
   ],
   "paths": {
     "/v2/video/generations": {
-       "x-hideTryItPanel": true,
+      "get": {
+        "x-hideTryItPanel": true,
         "x-codeSamples": [
           {
             "lang": "JavaScript",
@@ -46,7 +47,6 @@
             "source": "GET /v2/video/generations?generation_id=<REPLACE_WITH_YOUR_GENERATION_ID> HTTP/1.1\nHost: api.aimlapi.com\nAuthorization: Bearer <YOUR_AIMLAPI_KEY>\nAccept: */*"
           }
         ],
-      "get": {
         "operationId": "_v2_video_generations",
         "parameters": [
           {
