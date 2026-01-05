@@ -10,10 +10,16 @@
         "scheme": "bearer",
         "bearerFormat": "<YOUR_AIMLAPI_KEY>",
         "type": "http",
-        "description": "Bearer key"
+        "description": "Bearer key",
+        "in": "header"
       }
     }
   },
+  "security": [
+    {
+      "access-token": []
+    }
+  ],
   "servers": [
     {
       "url": "https://api.aimlapi.com"
@@ -29,9 +35,7 @@
             "required": true,
             "in": "query",
             "example": "<REPLACE_WITH_YOUR_GENERATION_ID>",
-            "schema": {
-              "type": "string"
-            }
+            "schema": { "type": "string" }
           }
         ],
         "responses": {
